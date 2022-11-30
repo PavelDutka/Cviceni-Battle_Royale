@@ -8,6 +8,38 @@ namespace Cviceni_Battle_Royale
 {
     class Enemy
     {
+        public void PickOpponent()
+        {
+
+        }
+
+        public void Attack()
+        {
+
+        }
+
+        public void RecieveDemage()
+        {
+
+        }
+
+        public void HP()
+        {
+
+        }
+
+        public void MaxHP()
+        {
+
+        }
+
+        public bool IsAlive()
+        {
+            if (HP > 0)
+                return false;
+            else
+                return true;
+        }
     }
 
     class Fighter : Enemy

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pavel\\source\\repos\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj": {}
+    "C:\\Users\\pavel\\source\\repos\\Cvicenii-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pavel\\source\\repos\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj": {
+    "C:\\Users\\pavel\\source\\repos\\Cvicenii-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\Cvicenii-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj",
         "projectName": "Cviceni-Battle_Royale",
-        "projectPath": "C:\\Users\\pavel\\source\\repos\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj",
+        "projectPath": "C:\\Users\\pavel\\source\\repos\\Cvicenii-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\source\\repos\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\obj\\",
+        "outputPath": "C:\\Users\\pavel\\source\\repos\\Cvicenii-Battle_Royale\\Cviceni-Battle_Royale\\Cviceni-Battle_Royale\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
