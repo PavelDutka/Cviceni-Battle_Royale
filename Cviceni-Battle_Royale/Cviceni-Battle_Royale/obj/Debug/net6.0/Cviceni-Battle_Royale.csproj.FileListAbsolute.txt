@@ -1,0 +1,15 @@
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\bin\Debug\net6.0\Cviceni-Battle_Royale.exe
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\bin\Debug\net6.0\Cviceni-Battle_Royale.deps.json
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\bin\Debug\net6.0\Cviceni-Battle_Royale.runtimeconfig.json
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\bin\Debug\net6.0\Cviceni-Battle_Royale.dll
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\bin\Debug\net6.0\Cviceni-Battle_Royale.pdb
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.csproj.AssemblyReference.cache
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.dll
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\refint\Cviceni-Battle_Royale.dll
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.pdb
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\Cviceni-Battle_Royale.genruntimeconfig.cache
+C:\Users\pavel\source\repos\Cvicenii-Battle_Royale\Cviceni-Battle_Royale\Cviceni-Battle_Royale\obj\Debug\net6.0\ref\Cviceni-Battle_Royale.dll
